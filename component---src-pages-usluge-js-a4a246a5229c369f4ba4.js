@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{a8ru:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),o=a("Wbzz"),r=a("Bl7J"),u=a("vrFN");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"Page two"}),l.a.createElement("h1",null,"Hi from usluge page"),l.a.createElement(o.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-usluge-js-a4a246a5229c369f4ba4.js.map

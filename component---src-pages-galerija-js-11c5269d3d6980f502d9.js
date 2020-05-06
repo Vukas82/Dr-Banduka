@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{Gj6h:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a),c=(t("Wbzz"),t("Bl7J")),i=t("vrFN");t("iwqv");n.default=function(e){return r.a.createElement(c.a,null,r.a.createElement(i.a,{title:"Home"}))}}}]);
+//# sourceMappingURL=component---src-pages-galerija-js-11c5269d3d6980f502d9.js.map
