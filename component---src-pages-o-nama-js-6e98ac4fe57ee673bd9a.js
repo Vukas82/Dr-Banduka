@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{WNul:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),r=a("Wbzz"),l=a("Bl7J"),c=a("vrFN");t.default=function(){return o.a.createElement(l.a,null,o.a.createElement(c.a,{title:"Page two"}),o.a.createElement("h1",{style:{margin:"200px"}},"Hi from oNama page"),o.a.createElement(r.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-o-nama-js-6e98ac4fe57ee673bd9a.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{gUCV:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),o=n.n(a),c=n("Wbzz"),l=n("Bl7J"),r=n("vrFN");t.default=function(){return o.a.createElement(l.a,null,o.a.createElement(r.a,{title:"Page two"}),o.a.createElement("h1",null,"endodoncija"),o.a.createElement(c.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-endodoncija-js-6b8e0289d9a9435c8250.js.map
